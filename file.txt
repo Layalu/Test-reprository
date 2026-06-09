@@ -1,3 +1,3 @@
 Hello Git 
-Adding login feature
-This is branch A change
+Adding login feature 
+This is branch B and branch A combined
